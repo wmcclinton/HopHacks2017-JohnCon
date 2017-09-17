@@ -1,6 +1,6 @@
 # HopHacks2017-JohnCon
 
-This code transforms PNGs onto a John Conway Game of Life board. The board and other files were made with Turtle graphics for Tk in Python. 
+This code transforms PNGs onto a [John Conway Game of Life board](https://www.youtube.com/watch?v=R9Plq-D1gEk&t=327s). The board and other files were made with Turtle graphics for Tk in Python. 
 
 ## Getting Started
 
