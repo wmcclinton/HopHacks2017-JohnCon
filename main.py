@@ -4,7 +4,7 @@ import glob
 
 images = []
 
-for file in glob.glob("Mortage/*.png"):
+for file in glob.glob("Ricktage/*.png"):
     print(file)
     images.append(file)
 
