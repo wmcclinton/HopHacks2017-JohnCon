@@ -1,4 +1,4 @@
-#HopHacks2017-JohnCon
+# HopHacks2017-JohnCon
 
 Transformes PNGs onto John Conway Game of Life board. The board and other files were made with Turtle graphics for Tk in Python. 
 
@@ -27,14 +27,6 @@ For example:
 ```
 sudo pip install <missing pyhton library>
 ```
-
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 
 ## Authors
 
