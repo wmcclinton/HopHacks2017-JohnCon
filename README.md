@@ -36,10 +36,10 @@ sudo pip install <missing pyhton library>
 
 ## Authors
 
-* **Willie McClinton** - *Initial work* - [A.M. Kuchling](fiftyexamples.readthedocs.io/en/latest/life.html)
+* **Willie McClinton** - *Initial work* - [A.M. Kuchling](http://fiftyexamples.readthedocs.io/en/latest/life.html)
 
 
 ## Acknowledgments
 
-* I want to thank HopHacks(https://hophacks.com) for their help
-* Also I want to greatly thank John Conway and John von Neumann(http://web.stanford.edu/~cdebs/GameOfLife/) for seeing the beauty in the little things
+* I want to thank [HopHacks](https://hophacks.com) for their help
+* Also I want to greatly thank [John Conway and John von Neumann](http://web.stanford.edu/~cdebs/GameOfLife/) for seeing the beauty in the little things
